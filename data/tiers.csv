@@ -1,0 +1,7 @@
+nom;type;parent;depositaire
+SDG Alpha;SDG;;
+Fonds A;Fonds;SDG Alpha;Depositaire Z
+Fonds B;Fonds;SDG Alpha;Depositaire Z
+Banque X;Banque;;
+OPCVM Y;SDG;;
+Depositaire Z;Depositaire;;
